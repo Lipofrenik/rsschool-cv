@@ -5,4 +5,4 @@
 4. Some basic understandings of OOP using C++ or Java
 5. None
 6. Student of Inha University in Tashkent
-7 IELTS 6.5 
+7. IELTS 6.5 
